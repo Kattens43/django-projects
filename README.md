@@ -1,0 +1,2 @@
+# django-projects
+DJANGO DEVELOPMENTS
